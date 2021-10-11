@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">android_1</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następny</string>
+    
+    <string name="q_iphone">Pierwszy Iphone został przedstawiony światu w 2007</string>
+    <string name="q_apple">Firma Apple została założona w 1976 roku</string>
+    <string name="q_android">System Android został opublikowany w 2005 roku</string>
+    <string name="q_property">System Android jest własonsią firmy Apple</string>
+    <string name="q_google">Firma Google została założona w 1998 roku</string>
+
+    <string name="correct_answer">Poprawnie</string>
+    <string name="incorrect_answer">Nie poprawnie</string>
+</resources>
