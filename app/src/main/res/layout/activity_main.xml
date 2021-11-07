@@ -35,9 +35,16 @@
     </LinearLayout>
     <Button
         android:layout_margin="5dp"
+        android:id="@+id/button_help"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Podpowiedz"/>
+    <Button
+        android:layout_margin="5dp"
         android:id="@+id/button_next"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button_next"/>
+
 </LinearLayout>
 

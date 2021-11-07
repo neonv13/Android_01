@@ -3,7 +3,7 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następny</string>
-    
+
     <string name="q_iphone">Pierwszy Iphone został przedstawiony światu w 2007</string>
     <string name="q_apple">Firma Apple została założona w 1976 roku</string>
     <string name="q_android">System Android został opublikowany w 2005 roku</string>
@@ -12,4 +12,6 @@
 
     <string name="correct_answer">Poprawnie</string>
     <string name="incorrect_answer">Nie poprawnie</string>
+
+    <string name="answer_was_shown">Oszukujesz! Odpowiedz była już wyświetlona.</string>
 </resources>
